@@ -37,4 +37,6 @@ Updating your projects
 
 If you forked kindlepdfviewer, you might need to adjust upstream references. Have them point to github.com/koreader/kindlepdfviewer instead of github.com/hwhw/kindlepdfviewer
 
-If you used kindlepdfviewer as a submodule, edit your project's .gitmodules file accordingly.
+They should be referenced in your repositories .git/config file.
+
+If you used kindlepdfviewer as a submodule, also edit your project's .gitmodules file accordingly.
